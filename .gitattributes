@@ -1,0 +1,8 @@
+# Text file normalization
+# Default behavior
+src/*.ts linguist-detectable
+package-lock.json linguist-generated
+*.jpg binary
+docs/**/*.html linguist-vendored
+yarn.lock linguist-generated
+*.md linguist-documentation
